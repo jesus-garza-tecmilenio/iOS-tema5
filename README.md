@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # iOS-tema5
-=======
 # Tema 5: Opcionales, Conversiones y Colecciones Heterogéneas en Swift
 
 ## Introducción
@@ -76,4 +74,3 @@ Dominar los opcionales, conversiones y colecciones heterogéneas es clave para e
 ---
 
 *Redactado por el maestro Jesús Garza para fines didácticos.*
->>>>>>> cfad50a (Agrega README didáctico sobre opcionales y conversiones en Swift)
